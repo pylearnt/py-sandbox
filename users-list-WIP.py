@@ -4,7 +4,7 @@ Usuarios = (
 # ('nombre.apellido', 'OTRO', datetime(2001,01,02), Pais.objects.get(pais='México').id, 'RFCnombre.apellido', 'CURPnombre.apellido', 'direccion1', 'direccion2', Ciudad.objects.get(ciudad='Morelia').id, 'phone', 'cel', 'url', 'sni', 'PRIDE-', datetime(2001,01,02), datetime(2001,01,02)),
 
 #tabla Autores
-('hilda.rivas', 'Hilda', 'Rivas', tipo = 'TECNICO', none, pais_origen = Pais.objects.get(pais='Méxicohilda.rivas 'Hildahilda.rivas 'Hilda.Rivas', '', '', Ciudad.objects.get(ciudad='Morelia').id, '', '', '', '', 'C', none, none),
+('hilda.rivas', 'Hilda', 'Rivas', tipo = 'TECNICO', none, pais_origen = Pais.objects.get(pais='México').id, 'hilda.rivas', 'hilda.rivas', '', '', Ciudad.objects.get(ciudad='Morelia').id, '', '', '', '', 'C', none, none),
 ('ana.burgos', 'Ana', 'Burgos', 'OTRO', none, Pais.objects.get(pais='México').id, 'ana.burgos', 'ana.burgos', '', '', Ciudad.objects.get(ciudad='Morelia').id, '', '', '', '', '-', none, none),
 ('manuel.mendoza', 'Manuel', 'Mendoza', 'INVESTIGADOR', none, Pais.objects.get(pais='México').id, 'manuel.mendoza', 'manuel.mendoza', '', '', Ciudad.objects.get(ciudad='Morelia').id, '', '', '', '', 'D', none, none),
 ('maria.ramirez', 'María', 'Ramírez', 'INVESTIGADOR', none, Pais.objects.get(pais='México').id, 'maria.ramirez', 'maria.ramirez', '', '', Ciudad.objects.get(ciudad='Morelia').id, '', '', '', '', 'D', none, none),
